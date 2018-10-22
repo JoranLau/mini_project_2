@@ -1,5 +1,6 @@
 # mini_project_2
 This is mini project 2, which consists of three trained models. 
+
 Model_vgg.py use CNN based on vgg model to train a classifying model. 
 Model_softmax.py uses softmax function to train a model. 
 Model_MLP.py uses Multilayer Perceptron to train a model. 
