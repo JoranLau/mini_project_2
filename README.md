@@ -9,6 +9,6 @@ Model_MLP.py uses Multilayer Perceptron to train a model.
 
 Each model will output an .h5 file which can be use in the next step.
 
-Use test_predict.py to predict a photo, by doing this you must put a photo under current folder.
+Use test_predict.py to predict a photo, by doing this you must have a test photo under current folder.
 
 The dataset contains of 2 classes -- daisy & tulips, so all of the models could only classify either one of them.
